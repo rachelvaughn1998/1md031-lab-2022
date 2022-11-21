@@ -1,0 +1,36 @@
+[
+    {
+      "name": "Jalapeno Burger",
+      "ingredient1": "Chicken",
+      "ingredient2": "Jalapenos",
+      "ingredient3": "Hot Sauce",
+      "kCal": 850,
+      "lactose": false,
+      "gluten": true,
+      "img": "https://d2v9mhsiek5lbq.cloudfront.net/eyJidWNrZXQiOiJsb21hLW1lZGlhLXVrIiwia2V5IjoiZm9vZG5ldHdvcmstaW1hZ2UtZjk1YzdkZTYtYzQ0NS00YTBiLWI2MWYtY2MwYTdlYjczN2U1LmpwZWciLCJlZGl0cyI6eyJyZXNpemUiOnsiZml0IjoiY292ZXIiLCJ3aWR0aCI6NzUwLCJoZWlnaHQiOjQyMn0sImpwZWciOnsicXVhbGl0eSI6NTUsInByb2dyZXNzaXZlIjp0cnVlfX19"
+    }
+,
+    {
+        "name": "Rachels Burger",
+        "ingredient1": "Beef",
+        "ingredient2": "Lettuce",
+        "ingredient3": "Tomatoe",
+        "kCal": 650,
+        "lactose": false,
+        "gluten": false,
+        "img":  "https://assets.biggreenegg.eu/app/uploads/2019/03/28145521/topimage-classic-hamburger-2019m04-800x534-600x401.jpg"
+      }
+,
+      {
+        "name": "Hilmas Burger",
+        "ingredient1": "Halloumi",
+        "ingredient2": "Yolk",
+        "ingredient3": "Olives",
+        "kCal": 450,
+        "lactose": true,
+        "gluten": true,
+        "img": "https://image.elle.se/grilla-hamburgare-ibl-4822649.jpg?imageId=4822649&width=1060&height=605&compression=80"
+      }
+  ]
+
+
